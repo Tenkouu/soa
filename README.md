@@ -9,4 +9,3 @@
 ## Ажиллуулах заавар
 - Port: 8080
 - Tech: Java 21, Spring Web, Spring Web Services (Client)
-- CORS: http://localhost:8082 хаягаас хандахыг зөвшөөрсөн.
